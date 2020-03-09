@@ -29,7 +29,7 @@ namespace SchoolManagement
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/Flatly.css",
+                      "~/Content/bootstrap.css",
                       "~/Content/Site.css"));
 
             bundles.Add(new StyleBundle("~/Content/jqueryui").Include(
